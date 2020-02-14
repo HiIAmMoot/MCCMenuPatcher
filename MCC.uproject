@@ -12,5 +12,13 @@
 			"Name": "OculusVR",
 			"Enabled": false
 		},
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		}
 	]
 }
